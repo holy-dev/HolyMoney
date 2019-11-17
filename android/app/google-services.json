@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "52401786848",
+    "firebase_url": "https://holymoney-dev.firebaseio.com",
+    "project_id": "holymoney-dev",
+    "storage_bucket": "holymoney-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52401786848:android:06ab83492bdd48b8456585",
+        "android_client_info": {
+          "package_name": "in.holydev.holymoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52401786848-n326t5l413311of8q7gbq65nsl1cvdl0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.holydev.holymoney",
+            "certificate_hash": "c047bcb8989daa02dc0c05d2e08c5e730c816632"
+          }
+        },
+        {
+          "client_id": "52401786848-59qikrh2gijm56c5dp6ftfk9kfcbsjr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCTqJ_lPo2HQXeHNR16qeinDHpIEi9jsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52401786848-59qikrh2gijm56c5dp6ftfk9kfcbsjr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
